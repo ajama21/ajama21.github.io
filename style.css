@@ -2,7 +2,7 @@ body {
   background-image: url('https://media.istockphoto.com/id/1331579485/vector/background-curved-light-blue.jpg?s=612x612&w=0&k=20&c=Wslr-PIxcQDoxXmzC7_w8rbFM9_s_5Jz99tE3ftNM1A='); /* Replace with the path to your image file */
   background-repeat: no-repeat;
   background-size: cover;
-  color: darkblue;
+  color: black;
   font-family: Papyrus, sans-serif;
   margin: 10% 20%
 }
@@ -20,7 +20,7 @@ h1{
   text-align: center;
   font-size: 50px;
   font-weight: bold;
-  color: blue;
+  color: black;
   margin-bottom: 10px;
 }
 .header {
@@ -29,7 +29,7 @@ h1{
   border: 1px solid black;
   margin-left: 10px;
   margin-right: 10px;
-  background-color: lightblue
+  background-color: 
   padding-left: 10px
   ext-align: center;
   text-transform: uppercase;
